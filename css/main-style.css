@@ -1,0 +1,41 @@
+/** HEADER **/
+
+.main-head{
+
+	width: 100%;
+	background-color: #B92326;
+	height: 60px;
+
+
+}
+
+
+
+/** SECTION **/
+
+.main-section{
+	width: 100%;
+	padding-top:50px;
+}
+
+.article-box{
+	margin-bottom:50px;	
+	font-family: 'Roboto Slab', serif; 
+}
+
+.article-box .article-thumbnail{
+	min-height:200px;
+	background-color: red;
+	width: 100%;
+}
+.article-box .article-title{
+	text-decoration: none;
+	font-weight:700;
+	color: #B92326;
+}
+.article-box .article-text p{
+	font-weight:300;
+	line-height: 1.5;
+	padding: 10px 0;
+	color: #333;
+}
