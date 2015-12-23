@@ -15,6 +15,8 @@
 	<!-- JS Files -->
 
 	<script src="<?php echo base_url(); ?>js/jquery.min.js"></script>
+	<script type="text/javascript" src="<?php echo base_url(); ?>js/slider/jssor.slider.mini.js"></script>
+	<script type="text/javascript" src="<?php echo base_url(); ?>js/slider/slider.js"></script>
 
 	<!-- Fonts -->
 
@@ -26,3 +28,21 @@
 
 </head>
 <body>
+
+<header id="main-head" class="main-head">
+
+
+<div class="navbar">
+
+	<div class="container">
+
+	<div class="navbar-logo"></div>
+
+	<div class="navbar-menu"></div>
+
+	</div>
+
+</div>
+
+
+</header>
